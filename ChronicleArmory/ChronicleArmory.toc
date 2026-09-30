@@ -1,6 +1,0 @@
-## Interface: 11200
-## Title: Chronicle Armory Link
-## Notes: Adds an Inspect Armory option to player right-click menus and creates a copyable Chronicle Armory link.
-## Author: Conrad / ChatGPT
-## Version: 0.1.1
-ChronicleArmory.lua
